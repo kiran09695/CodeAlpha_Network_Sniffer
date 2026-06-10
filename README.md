@@ -1,2 +1,14 @@
-# CodeAlpha_Network_Sniffer
-A Python-based Network Packet Sniffer developed for Cyber Security internship. It uses Scapy to capture and analyze live network traffic, displaying source/destination IPs, protocols, and packet information for educational purposes.
+Project Title: Network Packet Sniffer
+
+Description:
+This project captures live network packets using Python and Scapy. It displays source and destination IP addresses and protocol information.
+
+Tools Used:
+- Python
+- Scapy
+- Npcap
+
+Learning Outcome:
+- Understanding network traffic
+- Basic cybersecurity concepts
+- Packet analysis
